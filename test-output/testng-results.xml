@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-02T18:30:39 IST" name="Default suite" finished-at="2024-03-02T18:30:59 IST" duration-ms="19708">
+    <groups>
+    </groups>
+    <test started-at="2024-03-02T18:30:39 IST" name="Default test" finished-at="2024-03-02T18:30:59 IST" duration-ms="19708">
+      <class name="com.tests.ForgotPasswordTest">
+        <test-method is-config="true" signature="globalSetup()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:39 IST" name="globalSetup" finished-at="2024-03-02T18:30:39 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:39 IST" name="setup" finished-at="2024-03-02T18:30:41 IST" duration-ms="2513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_FPP_01()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:41 IST" name="TC_FPP_01" description="Check whether user able to view the fields Email address and password" finished-at="2024-03-02T18:30:43 IST" duration-ms="1973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_FPP_01 -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:43 IST" name="wrapUp" finished-at="2024-03-02T18:30:44 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:44 IST" name="setup" finished-at="2024-03-02T18:30:45 IST" duration-ms="1336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_FPP_02()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:45 IST" name="TC_FPP_02" description="Check whether user able to change password without OTP" finished-at="2024-03-02T18:30:47 IST" duration-ms="2271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_FPP_02 -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:47 IST" name="wrapUp" finished-at="2024-03-02T18:30:47 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:47 IST" name="setup" finished-at="2024-03-02T18:30:49 IST" duration-ms="1328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_FPP_03()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:49 IST" name="TC_FPP_03" description="Check whether user able to change password without entering value in the fields." finished-at="2024-03-02T18:30:51 IST" duration-ms="2239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_FPP_03 -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:51 IST" name="wrapUp" finished-at="2024-03-02T18:30:51 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:51 IST" name="setup" finished-at="2024-03-02T18:30:53 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_FPP_04()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:53 IST" name="TC_FPP_04" description="Check whether user able to change password with wrong OTP" finished-at="2024-03-02T18:30:55 IST" duration-ms="2060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_FPP_04 -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:55 IST" name="wrapUp" finished-at="2024-03-02T18:30:55 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:55 IST" name="setup" finished-at="2024-03-02T18:30:56 IST" duration-ms="1337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_FPP_05()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:56 IST" name="TC_FPP_05" description="Check whether user able to move to forgot password page with not registered email Id" finished-at="2024-03-02T18:30:58 IST" duration-ms="2073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_FPP_05 -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:com.tests.ForgotPasswordTest@1e04fa0a]" started-at="2024-03-02T18:30:58 IST" name="wrapUp" finished-at="2024-03-02T18:30:59 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- com.tests.ForgotPasswordTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
